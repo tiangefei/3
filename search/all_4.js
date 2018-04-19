@@ -1,10 +1,8 @@
 var searchData=
 [
-  ['getheight',['getHeight',['../class_button.html#a9ed8c54a9a7f468ea3fa4417f954ec23',1,'Button::getHeight()'],['../class_input_box.html#a8c812e49244c0e602e19bd7924b8779e',1,'InputBox::getHeight()'],['../class_label.html#a2493f06ab82ced2ebe627556e630fa5b',1,'Label::getHeight()']]],
-  ['getintersection',['getIntersection',['../_light_interface_8cpp.html#a624ab125d2b7ef5758f19f79ca3127c6',1,'LightInterface.cpp']]],
-  ['getsdlrenderer',['getSDLRenderer',['../class_light_interface.html#a7f7c944f07ba1ae77ba0e6e6bad9fbad',1,'LightInterface']]],
-  ['getsdlwindow',['getSDLWindow',['../class_light_interface.html#a91bb95a1f628517f249917e380e5dacf',1,'LightInterface']]],
-  ['getwidth',['getWidth',['../class_button.html#a78bb3e6eeb85f91d07c98b392a816f3f',1,'Button::getWidth()'],['../class_input_box.html#a2b728710292ab4f2503d8fcf660e5c1a',1,'InputBox::getWidth()'],['../class_label.html#aa7686dcb66482c219458280ce0daede0',1,'Label::getWidth()']]],
-  ['grenderer',['gRenderer',['../class_light_interface.html#a2913f291762246850a74fe760ea32d8c',1,'LightInterface']]],
-  ['gwindow',['gWindow',['../class_light_interface.html#a382f317eb245f9bd631766002b37e127',1,'LightInterface']]]
+  ['l1_5fx',['l1_x',['../_light1_8cpp.html#a86d5b5904f08be9a6808e3cf2f261de8',1,'Light1.cpp']]],
+  ['l1_5fy',['l1_y',['../_light1_8cpp.html#a993d2c01f233f715593a77aedee18ba5',1,'Light1.cpp']]],
+  ['l2_5fx',['l2_x',['../_light1_8cpp.html#aec199df845fd93b07d637c48fb0d92ce',1,'Light1.cpp']]],
+  ['l2_5fy',['l2_y',['../_light1_8cpp.html#a7972ee7e94e2b882923f5d45a5d1d428',1,'Light1.cpp']]],
+  ['light1_2ecpp',['Light1.cpp',['../_light1_8cpp.html',1,'']]]
 ];

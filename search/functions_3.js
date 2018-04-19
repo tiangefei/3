@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['free',['free',['../class_button.html#ab31b0993b959cf9863eb2cf22a7ae18b',1,'Button::free()'],['../class_input_box.html#aa5730c412bd2cb438d3920d457422899',1,'InputBox::free()'],['../class_label.html#a553b973908f7b55a8feb671e9e1905bd',1,'Label::free()']]]
+  ['main',['main',['../_light1_8cpp.html#a700a0caa5b70a06d1064e576f9f3cf65',1,'Light1.cpp']]],
+  ['mult',['mult',['../_light1_8cpp.html#a2467546a905f0a2c90b32ac69a55e737',1,'Light1.cpp']]]
 ];

@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['grenderer',['gRenderer',['../class_light_interface.html#a2913f291762246850a74fe760ea32d8c',1,'LightInterface']]],
-  ['gwindow',['gWindow',['../class_light_interface.html#a382f317eb245f9bd631766002b37e127',1,'LightInterface']]]
+  ['walls',['walls',['../_light1_8cpp.html#a0cb76cb18e90329f4297eb6f183f6a71',1,'Light1.cpp']]],
+  ['width',['WIDTH',['../_light1_8cpp.html#a59c3bba4b17cd5e19f149ea175fa6989',1,'Light1.cpp']]],
+  ['window',['window',['../_light1_8cpp.html#aaa8e409e04dcf575ef63fd5fb3db06f9',1,'Light1.cpp']]]
 ];
